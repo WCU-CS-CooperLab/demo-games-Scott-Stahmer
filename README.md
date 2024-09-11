@@ -7,3 +7,5 @@ A template repository to publish games
 4. [Main Scene 9_04](Main_Scene_9_04)
 5. [Main_Scene_9_6_a](Main_Scene_9_6_a)
 6. [Main_Scene_9_6_b](Main_Scene_9_6_b)
+7. [player_scene_09_09](player_scene_09_09)
+8. [Before_Project_1](Before_Project_1)
