@@ -22,4 +22,4 @@ A template repository to publish games
 19. [UI_Scene_9_25](UI_Scene_9_25/)
 20. [Hole_Scene_9_27](Hole_Scene_9_27/)
 21. [Player_Scene_9_30](Player_Scene_9_30/)
-22. [Project2_Phase1](Project2_Phase1/)
+22. [Project2-Phase1](Project2-Phase1/)
