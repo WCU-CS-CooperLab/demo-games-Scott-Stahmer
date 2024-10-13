@@ -29,4 +29,4 @@ A template repository to publish games
 26. [Level_One_10_9](Level_One_10_9/)
 27. [Project2-Phase2](Project2-Phase2/) 
 28. [Project2-Phase2-rev1](Project2-Phase2-rev1/)   
-29. [Title_Screen_10_11] (Title_Screen_10_11/)
+29. [Title_Screen_10_11](Title_Screen_10_11/)
