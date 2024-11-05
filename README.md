@@ -33,4 +33,5 @@ A template repository to publish games
 30. [Test_Scene_10_16](Test_Scene_10_16/)
 31. [Main_Scene_10_18](Main_Scene_10_18/)
 31. [Main_Scene_10_21](Main_Scene_10_21/)
-32. [Project2-Phase1](Project3-Phase1/)
+32. [Project3-Phase1](Project3-Phase1/)
+33. [Project3_Phase2_Deadline](Project3_Phase2_Deadline/)
