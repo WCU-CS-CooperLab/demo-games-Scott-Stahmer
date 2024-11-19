@@ -36,3 +36,5 @@ A template repository to publish games
 32. [Project3-Phase1](Project3-Phase1/)
 33. [Project3_Phase2_Deadline](Project3_Phase2_Deadline/)
 34. [StoneBridgeVer1](StoneBridgeVer1/)
+
+35. [Digital_Prototype_For_ITG](Digital_Prototype_For_ITG/)  This is because I can't make pages on my own repository without paying.
