@@ -38,3 +38,4 @@ A template repository to publish games
 34. [StoneBridgeVer1](StoneBridgeVer1/)
 
 35. [Digital_Prototype_For_ITG](Digital_Prototype_For_ITG/)  This is because I can't make pages on my own repository without paying.
+36. [Game_Alpha_ITG](Game_Alpha_ITG/)
