@@ -41,3 +41,5 @@ A template repository to publish games
 36. [Game_Alpha_ITG](Game_Alpha_ITG/)
 
 37. [Project3-Phase2-Rev1](Project3-Phase2-Rev1/)
+
+38. [Game_Beta_ITG](Game_Beta_ITG/)
