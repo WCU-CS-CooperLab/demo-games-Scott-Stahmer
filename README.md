@@ -47,3 +47,6 @@ A template repository to publish games
 39. [MMS](MMS/)
 
 40. [Final_Game_ITG](Final_Game_ITG/)
+
+41. [Hoard_Rush(Mac)](Hoard_Rush(Mac)/)
+42. [Hoard_Rush(Win)]([Hoard_Rush(Win)/)
